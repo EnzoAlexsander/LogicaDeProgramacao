@@ -1,0 +1,6 @@
+Obs até a aula 8
+
+No Console(CMD)
+É necessário estar dentro da pasta do programa
+primeiro sobe com javac NomeDoArquivo.java
+E pra ver o resultado java NomeDoArquivo
